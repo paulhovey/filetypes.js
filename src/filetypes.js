@@ -721,6 +721,7 @@
     {desc:"MPEG4",mime:["application/mp4"],ext:["mp4"]},
     {desc:"MPEG Video",mime:["video/mpeg"],ext:["mpeg"]},
     {desc:"Ogg Video",mime:["video/ogg"],ext:["ogv"]},
+    {desc:"Quicktime Movie",mime:["video/mov"],ext:["mov"]},
     {desc:"Quicktime Video",mime:["video/quicktime"],ext:["qt"]},
     {desc:"DECE High Definition Video",mime:["video/vnd.dece.hd"],ext:["uvh"]},
     {desc:"DECE Mobile Video",mime:["video/vnd.dece.mobile"],ext:["uvm"]},
